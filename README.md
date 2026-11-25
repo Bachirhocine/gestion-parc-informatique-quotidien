@@ -14,5 +14,5 @@ Dans le cadre de ma formation de **Technicien Informatique** (OpenClassrooms), j
 ---
 
 ## 📂 Livrables complets du projet
-* 📊 [Présentation : Déploiement GLPI 10 sous Debian 12, Agent et Convention de nommage (PDF)](Hocine_Bachir_1_presentation_062024.pdf)
+* 📊 [Présentation : Déploiement GLPI 10 sous Debian 12, Agent et Convention de nommage (PDF)](Hocine_Bachir_1_présentation_062024.pdf)
 * 🛡️ [Rapport technique : Analyse des alertes Nagios et plan d'actions curatives/préventives (PDF)](Hocine_Bachir_2_rapport_062024.pdf)
